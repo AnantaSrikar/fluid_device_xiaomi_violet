@@ -6,8 +6,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_violet.mk
+    $(LOCAL_DIR)/fluid_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_violet-userdebug \
-    xtended_violet-user
+    fluid_violet-userdebug \
+    fluid_violet-user
